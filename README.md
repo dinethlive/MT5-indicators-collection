@@ -1,6 +1,5 @@
 # MT5-indicators
 
-<h3>Hello Everyone !</h3>
 <hr>
 Break and Make , then lets Play !
 
